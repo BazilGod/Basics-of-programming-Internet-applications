@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>WEB5A</title>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script>function sendHeaders() {
+            let x = document.getElementById('X-Value-x').value;
+            let y = document.getElementById('X-Value-y').value;
+
+            $.ajax({
+                type: 'POST',
+                url: '/post',
+                headers: {
+                    "X-Value-x": x,
+                    "X-Value-y": y
+                }
+            }).done(function (data, status, request) {
+                document.getElementById('X-Value-z').value = request.getResponseHeader('X-Value-z');
+                })
+        };</script>
+</head>
+<body>
+    <form>
+        <input type="text" value="x: " readonly="readonly" />
+        <input type="text" id="X-Value-x" /> <br>
+        <input type="text" value="y: " readonly="readonly" />
+        <input type="text" id="X-Value-y" /> <br>
+        <input type="button" value="send" onclick="sendHeaders()" /> <br>
+        <input type="text" value="z:" readonly="readonly" />
+        <input type="text" id="X-Value-z" />
+    </form>
+</body>
+</html>

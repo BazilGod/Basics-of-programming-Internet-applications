@@ -1,0 +1,1 @@
+﻿alert('SECOND PAGE');

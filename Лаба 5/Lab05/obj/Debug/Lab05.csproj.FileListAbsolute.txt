@@ -1,0 +1,79 @@
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\ApplicationInsights.config
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Lab05.dll.config
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Lab05.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Lab05.pdb
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Antlr3.Runtime.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\AspNet.ScriptManager.bootstrap.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\AspNet.ScriptManager.jQuery.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.AI.Agent.Intercept.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.AI.DependencyCollector.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.AI.Web.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.AI.WindowsServer.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.ApplicationInsights.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.ScriptManager.WebForms.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.Web.Infrastructure.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Newtonsoft.Json.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\System.Web.Optimization.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\WebGrease.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\System.Web.Optimization.xml
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Antlr3.Runtime.pdb
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Newtonsoft.Json.xml
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.ApplicationInsights.xml
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.AI.DependencyCollector.xml
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.AI.WindowsServer.xml
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\Microsoft.AI.Web.xml
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\ru\System.Web.Optimization.resources.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\obj\Debug\Lab05.csprojResolveAssemblyReference.cache
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\obj\Debug\Lab05.dll
+E:\3k2s\PIA\Labs\Lab_05\Lab05\Lab05\obj\Debug\Lab05.pdb
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\ApplicationInsights.config
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Lab05.dll.config
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Lab05.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Lab05.pdb
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Antlr3.Runtime.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\AspNet.ScriptManager.bootstrap.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\AspNet.ScriptManager.jQuery.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.AI.Agent.Intercept.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.AI.DependencyCollector.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.AI.Web.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.AI.WindowsServer.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.ApplicationInsights.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.ScriptManager.WebForms.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.Web.Infrastructure.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Newtonsoft.Json.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\System.Web.Optimization.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\WebGrease.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\System.Web.Optimization.xml
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Antlr3.Runtime.pdb
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Newtonsoft.Json.xml
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.ApplicationInsights.xml
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.AI.DependencyCollector.xml
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.AI.WindowsServer.xml
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\Microsoft.AI.Web.xml
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\ru\System.Web.Optimization.resources.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\obj\Debug\Lab05.csprojAssemblyReference.cache
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\obj\Debug\Lab05.csproj.CopyComplete
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\obj\Debug\Lab05.dll
+D:\6sem\Основы программирования интернет-приложений\Лабы\Лаба 5\Lab05\obj\Debug\Lab05.pdb
